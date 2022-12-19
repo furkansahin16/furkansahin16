@@ -1,4 +1,4 @@
-Hi 👋 My name is Furkan Sahin
+Hi 👋 I'm Furkan
 =============================
 
 Full Stack Software Developer
