@@ -4,7 +4,7 @@ Hi 👋 I'm Furkan
 Full Stack Software Developer
 -----------------------------
 
-I've started learning programming with C#, .NET. I continue to develop myself as a Fullstack Software Developer on web programming.
+I've started learning programming with C#, .NET. I continue to develop myself as a .Net Developer.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [furkansahin1610@gmail.com](mailto:furkansahin1610@gmail.com)
