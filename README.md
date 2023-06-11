@@ -22,12 +22,15 @@ I've started learning programming with C#, .NET. I continue to develop myself as
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+<br/>
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/furkansahin16" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/furkansahin1610/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+<br/>
+
 ### Badges
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkansahin16&show_icons=true&locale=en&layout=compact" alt="furkansahin16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkansahin16&show_icons=true&locale=en" alt="furkansahin16" /></p>
 
