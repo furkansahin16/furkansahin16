@@ -20,9 +20,6 @@ I mainly work on scalable backend services, asynchronous communication, and dist
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
 </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
-</a>
 <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt="ASP.NET Core" />
 </a>
@@ -64,12 +61,4 @@ I mainly work on scalable backend services, asynchronous communication, and dist
 <a href="https://www.linkedin.com/in/furkansahin1610/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=furkansahin16&show_icons=true&locale=en" alt="furkansahin16" />
 </p>
