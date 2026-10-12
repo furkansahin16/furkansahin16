@@ -1,16 +1,18 @@
 Hi 👋 I'm Furkan  
 =============================
 
-Backend Software Developer  
+Backend Software Engineer  
 -----------------------------
 
-Backend-focused Software Developer with experience building and operating high-traffic, production-grade systems using .NET.  
-I mainly work on scalable backend services, asynchronous communication, and distributed systems, with a strong focus on clean code, maintainability, and system reliability.
+Backend Software Engineer with 3+ years of experience building and operating high-volume, production-grade messaging platforms using .NET.  
+I mainly work on backend APIs, asynchronous communication with RabbitMQ, and integrated distributed services. Outside work, I run a self-hosted homelab where I practice infrastructure, CI/CD, and deployment end to end.
 
 * 🌍  Based in Istanbul, Turkey  
+* 🌐  Portfolio: [furkansahin.dev](https://furkansahin.dev)  
 * ✉️  Reach me at: [furkansahin1610@gmail.com](mailto:furkansahin1610@gmail.com)  
-* 💼  Currently working as a Backend Software Developer  
-* 🧠  Interested in scalable systems, asynchronous architectures, and backend best practices  
+* 💼  Currently working as a Software Engineer at Biotekno  
+* 🧠  Interested in distributed systems, platform engineering, and AI-powered automation  
+* 🌱  Currently learning Go, Kubernetes, and AI agents  
 
 ---
 
@@ -23,11 +25,17 @@ I mainly work on scalable backend services, asynchronous communication, and dist
 <a href="https://learn.microsoft.com/en-us/aspnet/core/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt="ASP.NET Core" />
 </a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" />
+</a>
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="36" height="36" alt="RabbitMQ" />
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" />
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
 </a>
 <a href="https://redis.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" />
@@ -35,8 +43,17 @@ I mainly work on scalable backend services, asynchronous communication, and dist
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" />
 </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" />
+</a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="36" height="36" alt="Jenkins" />
+</a>
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="36" height="36" alt="GitHub Actions" />
+</a>
+<a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="36" height="36" alt="Cloudflare" />
 </a>
 </p>
 
@@ -45,10 +62,23 @@ I mainly work on scalable backend services, asynchronous communication, and dist
 ### ⚙️ What I Work On
 
 - High-traffic backend APIs (REST & SOAP)  
-- Asynchronous and event-driven communication  
-- Distributed caching and performance optimization  
-- Production systems and operational responsibility  
+- Asynchronous and event-driven communication with RabbitMQ  
+- Distributed caching (Redis, Apache Ignite) and SQL performance optimization  
+- CI/CD with Jenkins and Docker, containerized deployments on Linux  
+- Workflow automation with n8n and self-hosted LLMs with Ollama  
 - Clean architecture, CQRS, MediatR, SOLID principles  
+
+---
+
+### 🏠 Homelab & Side Projects
+
+Self-hosted on Oracle Cloud and a home Linux server, exposed through Cloudflare Tunnel and Caddy, deployed as Docker images built by GitHub Actions.
+
+| Project | Description | Live |
+|---|---|---|
+| Portal | Personal developer portal (Astro, Tailwind, Nginx) | [furkansahin.dev](https://furkansahin.dev) |
+| [json-viewer](https://github.com/furkansahin16/json-viewer) | Lightweight JSON viewer and formatter (Go) | [json.furkansahin.dev](https://json.furkansahin.dev) |
+| [text-diff](https://github.com/furkansahin16/text-diff) | Private, client-side text diff tool (Go) | [text-diff.furkansahin.dev](https://text-diff.furkansahin.dev) |
 
 ---
 
