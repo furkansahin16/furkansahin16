@@ -1,10 +1,10 @@
 Hi 👋 I'm Furkan  
 =============================
 
-Backend Software Engineer  
+Software Engineer  
 -----------------------------
 
-Backend Software Engineer with 3+ years of experience building and operating high-volume, production-grade messaging platforms using .NET.  
+Software Engineer with 3+ years of backend experience building and operating high-volume, production-grade messaging platforms using .NET.  
 I mainly work on backend APIs, asynchronous communication with RabbitMQ, and integrated distributed services. Outside work, I run a self-hosted homelab where I practice infrastructure, CI/CD, and deployment end to end.
 
 * 🌍  Based in Istanbul, Turkey  
